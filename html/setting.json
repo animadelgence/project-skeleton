@@ -1,0 +1,14 @@
+{
+    "domain": {
+	        "domain_name"     	: "mykidzday.localhost",
+	        "home"          	: "/opt/lampp/htdocs/emmortal/public",
+            "master_domain" 	: "mykidzday.localhost"
+    },
+    "database": {
+	        "database_dsn"   		: "mysql:dbname=mydb;host=mykidzdaystaging.ckgzcbgavb4l.us-east-1.rds.amazonaws.com:3306",
+	        "database_host"   		: "mykidzdaystaging.ckgzcbgavb4l.us-east-1.rds.amazonaws.com:3306",
+	        "database_name"			: "mydb",
+	        "database_username"	  	: "mykidzdayStaging",
+	        "database_password"	 	: "Testing1@"
+    }
+}
